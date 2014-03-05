@@ -12,6 +12,7 @@ group :development, :test do
   # child process 0.3.6 changed to 0.5.1 due to lock
   gem 'childprocess', '0.5.1'
   gem 'spork', '0.9.2'
+  gem 'factory_girl_rails', '4.1.0'
 end
 
 group :develpement do
