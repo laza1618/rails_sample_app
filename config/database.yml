@@ -31,6 +31,7 @@ test:
   database: da975v7cja5mvr
   username: yionpketradqii
   password: ChgozomMBfFIJ7NGzjThZHYRz1
-  host:   ec2-54-204-31-33.compute-1.amazonaws.com
+  host: ec2-54-204-31-33.compute-1.amazonaws.com
+  port: 5432
   pool: 5 # not mandatory
   timeout: 5000 # not mandatory
